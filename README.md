@@ -1,0 +1,2 @@
+# Prototype-3-unity
+Le but de cette leçon est de mettre en place le gameplay de base de ce prototype. Nous allons commencer par créer un nouveau projet et importer les fichiers de démarrage. Ensuite, nous choisirons un magnifique arrière-plan et un personnage à contrôler par le joueur, et nous permettrons à ce personnage de sauter en appuyant simplement sur la barre d'espace. Nous choisirons également un obstacle pour le joueur et créerons un gestionnaire d'apparition qui les lancera sur le chemin du joueur à intervalles réguliers.
